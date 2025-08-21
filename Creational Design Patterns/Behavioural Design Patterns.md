@@ -1,13 +1,13 @@
----
 
-## 🤝 Behavioral Design Patterns
+# 🤝 Behavioral Design Patterns
 
 Behavioral Design Patterns are concerned with **algorithms and the assignment of responsibilities between objects**.  
 They focus not only on the **objects or classes themselves**, but also on the **communication and interaction** between them.  
 
 These patterns often characterize **complex control flows** that are difficult to trace at runtime, making systems easier to extend and maintain.  
 
----
+<img width="1001" height="501" alt="image" src="https://github.com/user-attachments/assets/0f2452b0-955d-4960-8835-caddcf9e86a1" />
+
 
 ### 🔑 Types of Behavioral Design Patterns
 
@@ -51,10 +51,8 @@ These patterns often characterize **complex control flows** that are difficult t
 - Separates an algorithm from the objects it operates on.  
 - Useful when you need to perform **new operations** on a group of similar objects without modifying their classes.  
 
----
+
 
 ## 📘 Summary
 Behavioral Patterns focus on **communication, algorithms, and responsibilities**.  
 They simplify **control flow** and improve **flexibility, reusability, and scalability** of software systems.  
-
----
