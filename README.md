@@ -15,7 +15,6 @@ Welcome to the ultimate guidebook by **Zulfiqar Ali Mir** — a comprehensive re
 
 ## 📌 Project Structure
 
-```bash
 .
 ├── 01-oop-fundamentals/
 ├── 02-solid-principles/
@@ -59,4 +58,3 @@ To get the most out of this repo and master **OOP + LLD + Design Patterns**, fol
 - Reinforce with **GeeksforGeeks / YouTube**.  
 - Level up with **LLD.io & advanced repos**.
 
----
