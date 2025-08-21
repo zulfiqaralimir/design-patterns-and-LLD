@@ -2,7 +2,6 @@
 
 Welcome to the ultimate guidebook by **Zulfiqar Ali Mir** — a comprehensive resource to learn and apply **Object-Oriented Design**, **SOLID principles**, **UML diagrams**, **Design Patterns**, and **40+ real-world LLD problems**.
 
----
 
 ## 📚 What's Inside?
 
@@ -13,8 +12,6 @@ Welcome to the ultimate guidebook by **Zulfiqar Ali Mir** — a comprehensive re
 - ✅ 40+ LLD Interview Problems (and growing)  
 - ✅ Step-by-step solutions with UML class diagrams  
 - ✅ Pattern usage explained in context  
-
----
 
 ## 📌 Project Structure
 
