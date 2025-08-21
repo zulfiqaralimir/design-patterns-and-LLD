@@ -3,7 +3,10 @@
 
 Structural Design Patterns solve problems related to how **classes and objects are composed or assembled** to form larger, more flexible, and efficient structures.  
 - **Structural class patterns** use inheritance to compose interfaces or implementations.  
-- **Structural object patterns** use composition to assemble behaviors at runtime.  
+- **Structural object patterns** use composition to assemble behaviors at runtime.
+
+  <img width="801" height="401" alt="image" src="https://github.com/user-attachments/assets/619359ed-86d3-4395-b381-51e1d156007a" />
+
 
 
 ### 🔑 Types of Structural Design Patterns
