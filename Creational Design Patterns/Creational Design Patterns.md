@@ -4,7 +4,8 @@
 Creational Design Patterns focus on the **process of object creation** or problems related to object creation.  
 They help in making a system **independent of how its objects are created, composed, and represented**.
 
-<img width="801" height="401" alt="image" src="https://github.com/user-attachments/assets/b0a685ad-ba0d-4ba2-b77f-d372f5e60859" />
+<img width="801" height="401" alt="image" src="https://github.com/user-attachments/assets/cfbbca00-353a-47e2-8928-cf5abd5c3561" />
+
 
 
 
