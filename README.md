@@ -1,3 +1,6 @@
+https://www.geeksforgeeks.org/system-design/software-design-patterns/
+https://chatgpt.com/g/g-67c40cc4847c819186ae24db1b5e0a69-book-writer/c/68a78e06-e4e4-8323-b47d-bb657bf803e1
+
 # 🧠 Mastering Low-Level Design & Object-Oriented Principles
 
 Welcome to the ultimate guidebook by **Zulfiqar Ali Mir** — a comprehensive resource to learn and apply **Object-Oriented Design**, **SOLID principles**, **UML diagrams**, **Design Patterns**, and **40+ real-world LLD problems**.
