@@ -1,3 +1,38 @@
+# 🧠 Mastering Low-Level Design & Object-Oriented Principles
+
+Welcome to the ultimate guidebook by **Zulfiqar Ali Mir** — a comprehensive resource to learn and apply **Object-Oriented Design**, **SOLID principles**, **UML diagrams**, **Design Patterns**, and **40+ real-world LLD problems**.
+
+---
+
+## 📚 What's Inside?
+
+- ✅ OOP Fundamentals & Class Relationships  
+- ✅ SOLID Design Principles  
+- ✅ Important UML Diagrams (Class, Sequence, Activity, etc.)  
+- ✅ 20+ Design Patterns with real-world examples  
+- ✅ 40+ LLD Interview Problems (and growing)  
+- ✅ Step-by-step solutions with UML class diagrams  
+- ✅ Pattern usage explained in context  
+
+---
+
+## 📌 Project Structure
+
+```bash
+.
+├── 01-oop-fundamentals/
+├── 02-solid-principles/
+├── 03-uml-diagrams/
+├── 04-design-patterns/
+├── 05-lld-interview-problems/
+│   ├── parking-lot/
+│   ├── elevator-system/
+│   ├── bookmyshow/
+│   └── ...
+├── assets/              # UML diagrams and images
+└── README.md
+
+
 # 🔁 Suggested Learning Path (Combo)
 
 To get the most out of this repo and master **OOP + LLD + Design Patterns**, follow this structured path:
