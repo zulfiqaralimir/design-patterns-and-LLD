@@ -1,4 +1,4 @@
-##🔁 Suggested Learning Path (Combo)
+# 🔁 Suggested Learning Path (Combo)
 
 To get the most out of this repo and master **OOP + LLD + Design Patterns**, follow this structured path:
 
