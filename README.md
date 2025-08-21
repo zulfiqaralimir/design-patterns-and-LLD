@@ -1,5 +1,3 @@
----
-
 ##🔁 Suggested Learning Path (Combo)
 
 To get the most out of this repo and master **OOP + LLD + Design Patterns**, follow this structured path:
@@ -20,9 +18,9 @@ To get the most out of this repo and master **OOP + LLD + Design Patterns**, fol
 5. **[LowLevelDesign.io](https://lowleveldesign.io/)** + GitHub Repos  
    Dive deeper into **advanced design concepts** and **project-based implementations**.
 
----
 
-## 🧭 Pro Tip
+
+##🧭 Pro Tip
 - Start with **visual learning** (Refactoring.Guru).  
 - Move to **problem-solving** (Educative.io).  
 - Use **this repo for practice & notes**.  
